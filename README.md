@@ -24,14 +24,8 @@
 
 ###
 
-<div align="left">
-  <img height="425" src="https://i.imgur.com/8SgtjaB.png"  />
+<!-- Adicionei um div com flexbox para as imagens ficarem lado a lado -->
+<div align="left" style="display: flex; gap: 20px;">
+  <img height="425" src="https://i.imgur.com/8SgtjaB.png" />
+  <img height="425" src="https://i.imgur.com/AKAOeoQ.png" />
 </div>
-
-###
-
-<div align="left">
-  <img height="425" src="https://i.imgur.com/AKAOeoQ.png"  />
-</div>
-
-###
