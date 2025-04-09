@@ -25,6 +25,6 @@
 ###
 
 <div align="left" style="display: flex; gap: 20px;">
-  <img height="425" src="https://i.imgur.com/8SgtjaB.png" margin-right: 18px; />
+  <img height="425" src="https://i.imgur.com/8SgtjaB.png" style="margin-right: 18px;" />
   <img height="425" src="https://i.imgur.com/AKAOeoQ.png" />
 </div>
