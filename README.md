@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Site de portfólio para mostrar meus projetos, habilidades e experiências como desenvolvedor, tornando mais fácil para quem quiser conhecer meu trabalho e entrar em contato.</p>
+<p align="center">Projeto desenvolvido com a finalidade de mostrar meus projetos, habilidades e experiências como desenvolvedor, tornando mais fácil para quem quiser conhecer meu trabalho e entrar em contato.</p>
 
 ###
 
