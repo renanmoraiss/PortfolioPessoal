@@ -29,6 +29,7 @@ body {
     background: #1f1f1f;
     appearance: none;
     text-align: center;
+    outline: none;
     }
 
 .secao {
