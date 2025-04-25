@@ -491,6 +491,7 @@ h4 {
     background: #1f1f1f;
     appearance: none;
     text-align: center;
+    font-size: 15px;
         }
 
     header {
@@ -779,6 +780,7 @@ h4 {
             background: #1f1f1f;
             appearance: none;
             text-align: center;
+            font-size: 16px;
         }
         .conteudo {
             max-width: 100%;
