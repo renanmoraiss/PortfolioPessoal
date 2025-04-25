@@ -16,6 +16,21 @@ body {
     overflow-x: hidden;
 }
 
+.linguagem {
+    display: block;
+    margin: auto;
+    margin-bottom: 18px;
+    margin-top: 18px;
+    padding: 10px 12px;
+    border-radius: 30px;
+    border: 1px solid #c3c3c34d;
+    color: #ffffff;
+    font-weight: 200;
+    background: #1f1f1f;
+    appearance: none;
+    text-align: center;
+    }
+
 .secao {
     padding: 100px 50px;
     margin-left: 30px;
@@ -464,6 +479,20 @@ h4 {
 
 @media screen and (max-width: 767px) {
 
+    .linguagem {
+    display: block;
+    margin: auto;
+    margin-bottom: 25px;
+    padding: 10px 12px;
+    border-radius: 30px;
+    border: 1px solid #c3c3c34d;
+    color: #ffffff;
+    font-weight: 200;
+    background: #1f1f1f;
+    appearance: none;
+    text-align: center;
+        }
+
     header {
     width: 84.5%;
     display: grid;
@@ -737,6 +766,20 @@ h4 {
     }
 
     @media screen and (min-width: 768px) and (max-width: 820px) {
+        .linguagem {
+            display: block;
+            margin: auto;
+            margin-bottom: 18px;
+            margin-top: 18px;
+            padding: 10px 12px;
+            border-radius: 30px;
+            border: 1px solid #c3c3c34d;
+            color: #ffffff;
+            font-weight: 200;
+            background: #1f1f1f;
+            appearance: none;
+            text-align: center;
+        }
         .conteudo {
             max-width: 100%;
             margin-bottom: 35px;
