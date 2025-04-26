@@ -18,7 +18,7 @@ body {
 }
 
 .linguagem {
-    display: block;
+    display: none;
     margin: auto;
     margin-bottom: 18px;
     margin-top: 18px;
@@ -483,7 +483,7 @@ h4 {
 @media screen and (max-width: 767px) {
 
     .linguagem {
-    display: block;
+    display: none;
     margin: auto;
     margin-bottom: 25px;
     padding: 10px 12px;
@@ -771,7 +771,7 @@ h4 {
 
     @media screen and (min-width: 768px) and (max-width: 820px) {
         .linguagem {
-            display: block;
+            display: none;
             margin: auto;
             margin-bottom: 18px;
             margin-top: 18px;
