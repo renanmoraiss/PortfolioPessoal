@@ -1,3 +1,4 @@
+/* EM CONSTRUCAO
 const translation = {
     ptBr: {
         text1: "fólio>",
@@ -73,4 +74,4 @@ const translation = {
         const textToTranslation = document.querySelectorAll("")
     }
 
-selectTranslete.addEventListener("change", translationBRandEN)
+selectTranslete.addEventListener("change", translationBRandEN) */
