@@ -628,7 +628,7 @@ b {
 
     .img-aluno-devclub {
         width: 300px;
-        height: 350px;
+        height: 335px;
         margin-bottom: 30px;
     }
 
@@ -1201,7 +1201,7 @@ b {
     }
 
     .secao-contato {
-        margin: 115px auto 15px;
+        margin: 115px auto 0px;
     }
 }
 
