@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">• HTML semântico ⭢ Linguagem de marcação (estrutura e conteúdo)<br>• CSS ⭢ Linguagem de estilização (aparência dos elementos)</p>
+<p align="left">• HTML semântico ⭢ Linguagem de marcação (estrutura e conteúdo)<br>• CSS ⭢ Linguagem de estilização (aparência dos elementos)<br>• JavaScript ⭢ Linguagem de programação (interatividade)</p>
 
 ###
 
