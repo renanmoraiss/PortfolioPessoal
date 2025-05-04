@@ -20,7 +20,22 @@ links.forEach(link => {
 // Formulário de contato
 const form = document.querySelector('.form-contato');
 
-form.addEventListener('submit', (e) => {
-    e.preventDefault();
-    form.reset();
-});
+    form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        const formData = new FormData(form);
+        const response = await fetch(form.action, {
+            method: 'POST',
+            body: formData,
+            headers: {
+                'Accept': 'application/json'
+            }
+        });
+
+        if (response.ok) {
+            form.reset();
+            alert('Mensagem enviada com sucesso!');
+        } else {
+            alert('Houve um erro no envio. Tente novamente!');
+        }
+    });
