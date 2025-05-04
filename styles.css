@@ -167,7 +167,6 @@ ul {
     border-radius: 12px;
     display: inline-block;
     font-weight: bold;
-    box-shadow: rgb(195 195 195 / 100%) 4px 4px 0px 0px;
     transition: all 0.3s ease;
 }
 
@@ -558,6 +557,7 @@ b {
     color: #ffffff;
     font-size: 16px;
     transition: all 0.3s ease;
+    outline: #3557f2;
 }
 
 .campo-form textarea {
@@ -857,7 +857,6 @@ b {
         border-radius: 12px;
         display: inline-block;
         font-weight: bold;
-        box-shadow: rgb(195 195 195 / 100%) 3px 3px 0px 0px;
         margin-bottom: 20px;
     }
 
