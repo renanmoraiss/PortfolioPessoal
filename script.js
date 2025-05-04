@@ -22,6 +22,5 @@ const form = document.querySelector('.form-contato');
 
 form.addEventListener('submit', (e) => {
     e.preventDefault();
-    alert('Obrigado pelo contato! Responderei assim que puder.');
     form.reset();
 });
