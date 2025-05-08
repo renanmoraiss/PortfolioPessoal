@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.imgur.com/gQ1Race.png"  />
+  <img height="400" src="https://i.imgur.com/zXS9i6X.png"  />
 </div>
 
 ###
